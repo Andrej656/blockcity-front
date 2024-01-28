@@ -12,6 +12,7 @@
     },
     "dependencies": {
         "@headlessui/react": "^1.7.17",
+        "@stacks/cli": "^6.11.3",
         "@stacks/connect": "^7.5.1",
         "@stacks/transactions": "^6.11.3",
         "@stacks/wallet-sdk": "^6.11.3",
